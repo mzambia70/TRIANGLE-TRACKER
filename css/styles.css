@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+h1{
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+}
+.form{
+    font-family: 'Yellowtail' cursive;
+    font-size: 30px;
+    font-weight: lighter;
+    margin: 60px;
+    border: 10px blue;
+}
+#inform{
+    font-family: 'Merienda',cursive;
+    font-size: 25px;
+    font-weight: normal;
+    border: 5px blue;
+    border-radius: 60px;
+}
+p{
+    font-family: 'Permanent marker',cursive;
+    font-size: 30px;
+    margin-top: 50px;
+
+}
+input{
+    height:auto;
+}
+button{
+    background-color: green;
+    margin: 10px;
+    padding: 20px;
+}
+#reset:hover{
+    background-color: red;
+}
