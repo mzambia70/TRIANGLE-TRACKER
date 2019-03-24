@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-color: aqua;
+    background-color: maroon;
 }
 h1{
     font-family: cursive;
@@ -8,6 +8,7 @@ h1{
     font-weight: bold;
 }
 .form{
+    float: right;
     font-family: 'Yellowtail' cursive;
     font-size: 30px;
     font-weight: lighter;
@@ -19,7 +20,7 @@ h1{
     font-size: 25px;
     font-weight: normal;
     border: 5px blue;
-    border-radius: 60px;
+    border-radius: 10px;
 }
 p{
     font-family: 'Permanent marker',cursive;
@@ -28,6 +29,7 @@ p{
 
 }
 input{
+    float: center;
     height:auto;
 }
 button{
