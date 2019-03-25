@@ -23,4 +23,4 @@ contact info:0724869317
 email:mzambia70@gmail.com
 ### License
 This project has an MIT License therefore it can be used by anyone for whichever purpose they deem fit to use it under.
-Copyright (c) {2019} mohamed
+Copyright (c) {2019} mohamed.
