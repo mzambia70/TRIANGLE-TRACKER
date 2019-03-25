@@ -15,7 +15,7 @@ this application was intended to solve and inform the user different types of tr
 1.Have a functional github account
 2.On my github profile ,select-my-portfolio
 3.fork the repository
-4.Access it on your github account
+4.Access it on your github account.
 ## Known Bugs
 At the time of writting they were no known bugs if you come across any please fell free to reach out.
 ## Technologies Used
