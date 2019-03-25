@@ -31,6 +31,7 @@ p{
 input{
     float: center;
     height:auto;
+    font-family:'permanent maker',cursive;
 }
 button{
     background-color: green;
