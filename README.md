@@ -6,11 +6,13 @@ This application allows users to input different sides of a triangle and it give
 
 
 CONTRIBUTOR:
+
 This application was done by mohamed muhumed
 
 this application was intended to solve and inform the user different types of triangles and some of their  features
 
 BDD:
+
 Behavior|	Input|	output
 The site determines whether the inputted values can construct a triangle and moreover which type of a triangle.|	The user inputs different values in the forms.Clicks the 'calculate' button and it executes.	|It tells if the value construct a triangle and which type of triangle.
 If three sides are equal then its called an equilateral.|	Three inputs should have same values|	equilateral
